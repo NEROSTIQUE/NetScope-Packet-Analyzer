@@ -31,6 +31,7 @@ Click on any packet row to view detailed decoded information and raw hex dump.
 Click Stop Capture to end packet sniffing.
 
 Ethical Notice
+
 This tool is intended solely for educational and authorized network monitoring purposes. Unauthorized packet capturing on networks you do not own or have permission to monitor may be illegal and unethical.
 
 License
